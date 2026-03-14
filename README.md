@@ -1,6 +1,6 @@
 # Battery-Charger-Module
 A custom designed TP4056 Charger Module that allows you to charge LiPos with USB-C.
-* Made for [Hackclub the Game](https://game.hackclub.com/) event
+* Made for [Stasis Hackclub](https://stasis.hackclub.com/) event
 ## Schematic:
 <img width="1315" height="384" alt="Screenshot 2026-03-09 at 3 46 40 PM" src="https://github.com/user-attachments/assets/622a26e0-15af-4fde-a8a4-44851788fe6a" />
 
